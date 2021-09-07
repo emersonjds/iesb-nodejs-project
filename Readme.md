@@ -1,4 +1,4 @@
-# NodeJS CRUD API
+# NodeJS Blog Structure
 
 API in NodeJS for final project in the backend discipline.
 
